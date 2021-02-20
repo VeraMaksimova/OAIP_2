@@ -1,0 +1,4 @@
+﻿  s.cpp
+C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\s\s\s.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\s\s\s.cpp(78,6): warning C4101: file_3: неиспользованная локальная переменная
+  s.vcxproj -> C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\s\Debug\s.exe

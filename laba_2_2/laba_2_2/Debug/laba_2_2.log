@@ -1,0 +1,4 @@
+﻿  laba_2_2.cpp
+C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\laba_2_2\laba_2_2\laba_2_2.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\laba_2_2\laba_2_2\laba_2_2.cpp(53,6): warning C4101: file_3: неиспользованная локальная переменная
+  laba_2_2.vcxproj -> C:\Users\Пользователь\Documents\2 семестр\ОАИП\lab 2\laba_2_2\Debug\laba_2_2.exe
